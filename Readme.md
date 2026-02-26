@@ -281,7 +281,3 @@ Future enhancements could include:
 This project demonstrates how different data structures can work together to solve a real-world problem.  
 By combining hash tables, doubly linked lists, and string matching algorithms, the system provides efficient contact storage, retrieval, and search capabilities.
 ``
- 
- #   D a t a - S t r u c t u r e s - - - B a s i c - D a t a - S t r u c t u r e s 
- 
- 
